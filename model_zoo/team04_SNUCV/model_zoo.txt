@@ -1,0 +1,24 @@
+
+Donwload link for team04_SNUCV folder
+
+https://drive.google.com/drive/folders/1yvDUtERkGgnJDNeP7WdTq_RhfdI6A8Zs?usp=sharing
+
+```
+-- model_zoo
+    |-- team04_SNUCV
+        |-- transformer
+            |-- config.json
+            |-- diffusion_pytorch_model.fp16.safetensors
+            |-- diffusion_pytorch_model.safetensors
+        |-- vae
+            |-- config.json
+            |-- diffusion_pytorch_model.fp16.safetensors
+            |-- diffusion_pytorch_model.safetensors
+        |-- mamba_trained.pth
+        |-- pool_embeds.pt
+        |-- prompt_embeds.pt
+        |-- transformer.safetensors
+        |-- vae.safetensors
+```
+
+
