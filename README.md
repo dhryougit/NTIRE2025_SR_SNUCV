@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 
 ### ./model_zoo structure
-- Download the team04_SNUCV folder from [GoogleDrive](https://drive.google.com/drive/folders/1yvDUtERkGgnJDNeP7WdTq_RhfdI6A8Zs?usp=sharing) and put into `./model_zoo`.
+- Download the team04_SNUCV folder from [GoogleDrive](https://drive.google.com/file/d/1khPm2YtT_iv2jMbfvU4-3-07EoPACRzm/view?usp=sharing) and put into `./model_zoo`.
 ```
 -- model_zoo
     |-- team04_SNUCV
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ```
 
 ### results
-- Download the div2k test results from [GoogleDrive](https://drive.google.com/drive/folders/1ipkvhd-qHzGzOBjkeOsT6f45EVCcXvOJ?usp=sharing) 
+- Download the div2k test results from [GoogleDrive](https://drive.google.com/file/d/1v5zZBsO_fDHrSxma1hxlXkp31cq8nack/view?usp=sharing) 
 
 ---
 
